@@ -6,18 +6,18 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2019 00:28:26 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2019 00:11:26 +0800</lastBuildDate>
     
 	<atom:link href="https://Enchin-Chao.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome</title>
+      <title>Blog開張</title>
       <link>https://Enchin-Chao.github.io/post/welcome/</link>
-      <pubDate>Fri, 29 Nov 2019 00:28:26 +0800</pubDate>
+      <pubDate>Wed, 11 Dec 2019 00:11:26 +0800</pubDate>
       
       <guid>https://Enchin-Chao.github.io/post/welcome/</guid>
-      <description></description>
+      <description>測試文章，能否</description>
     </item>
     
   </channel>
