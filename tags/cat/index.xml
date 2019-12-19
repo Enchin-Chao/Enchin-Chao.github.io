@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAT on Hello My Site</title>
+    <link>https://Enchin-Chao.github.io/tags/cat/</link>
+    <description>Recent content in CAT on Hello My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>enchinchao</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 00:11:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://Enchin-Chao.github.io/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog開張</title>
+      <link>https://Enchin-Chao.github.io/post/welcome/</link>
+      <pubDate>Fri, 20 Dec 2019 00:11:26 +0800</pubDate>
+      
+      <guid>https://Enchin-Chao.github.io/post/welcome/</guid>
+      <description>HUGO 好用，敬請期待 未完待續
+九九乘法表    Column A Column B Column C     A1 B1 C1   A2 B2 C2   A3 B3 C3    </description>
+    </item>
+    
+  </channel>
+</rss>
